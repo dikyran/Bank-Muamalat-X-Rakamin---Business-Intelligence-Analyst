@@ -24,10 +24,8 @@ Proyek ini adalah bagian dari kolaborasi antara **Bank Muamalat** dan **Rakamin 
 - Rekomendasi strategi berdasarkan analisis data untuk meningkatkan engagement dan retensi pengguna.  
 
 ## 📂 **Repository**
-- Berisi dokumentasi proyek, dataset, laporan analisis, dan file Power BI.  
-- **[Link ke Dashboard Interaktif (opsional)]**
+- Berisi dokumentasi proyek, dataset, laporan analisis, dan Link Dashboard Looker Studio.  
+- **[Link ke Dashboard Interaktif: (https://lookerstudio.google.com/reporting/7e654e3c-6e9d-4e2a-9c5c-cf0ce70a81d0)]**
 
-## 📧 **Kontak**  
-Untuk informasi lebih lanjut, silakan hubungi melalui email: [email@example.com].
 
 
